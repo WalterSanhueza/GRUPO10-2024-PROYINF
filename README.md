@@ -29,4 +29,4 @@ de Datos
 * Requemientos de este servidor Virtualizado 8 a 16 Gb en ram , 2 Procesadores , 100 Gb de
 almacenamiento
 
-#Observaciones
+# Observaciones
