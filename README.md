@@ -1,4 +1,4 @@
-# Grupo 10
+## Grupo 10
 Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 * Diego Carlon - 202173540-2
@@ -9,13 +9,14 @@ Este es el repositorio del Grupo 10, cuyos integrantes son:
 **TUTOR:** Ignacio Muñoz
 
 
-# Wiki
+## Wiki
 Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/GRUPO10-2024-PROYINF/wiki)
 
+## Videos
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
 
 
-# Aspectos técnicos relevantes
+## Aspectos técnicos relevantes
 La Plataforma se debe desarrollar en plataforma web y con acceso multiplataforma.
 
 * Para el frontend utilizaremos react y para el backend next-js
