@@ -1,5 +1,4 @@
 # Grupo 10
-***
 Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 * Diego Carlon - 202173540-2
@@ -11,16 +10,13 @@ Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 
 # Wiki
-***
 [Puede acceder a la wiki mediante el siguiente enlace](https://www.youtube.com/watch?v=abJau21SDIk)
 
 # Videos
-***
 Video presentación cliente
 
 
 # Aspectos técnicos relevantes
-***
 La Plataforma se debe desarrollar en plataforma web y con acceso multiplataforma.
 
 * Para el frontend utilizaremos react y para el backend next-js
