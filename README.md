@@ -3,7 +3,7 @@ Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 * Diego Carlon - 202173540-2
 * Walter Sanhueza - 202023564-3
-* Joshua Serin - 202173644-1
+* Joshua Serin - 202173644-
 * Matias Perez - 202187515-8
 
 **TUTOR:** Ignacio Muñoz
