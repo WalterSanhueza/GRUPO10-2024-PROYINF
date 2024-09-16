@@ -10,7 +10,7 @@ Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 
 # Wiki
-[Puede acceder a la wiki mediante el siguiente enlace](https://github.com/WalterSanhueza/GRUPO10-2024-PROYINF/wiki/Wiki-Grupo-10)
+Puede acceder a la wiki mediante el siguiente [enlace](https://github.com/WalterSanhueza/GRUPO10-2024-PROYINF/wiki/Wiki-Grupo-10)
 
 # Videos
 [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
