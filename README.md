@@ -32,4 +32,5 @@ almacenamiento
 # Observaciones
 * Por recomendación del ayudante, se migró el repositorio a GitHub.
 * Se quitaron actores según las observaciones dadas y, para mayor claridad, se les agregó descripciones justificando su elección.
-* Se modificó el modelo de dominio, eliminando la página web, porque ésta es parte del sistema y, además, es una entidad de software.
+* Se modificó el modelo de dominio, eliminando la página web, porque ésta es parte del sistema.
+* Al modificar el modelo de dominio, se quitó la entidad de software.
