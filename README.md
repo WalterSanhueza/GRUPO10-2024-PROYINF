@@ -19,7 +19,7 @@ Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/G
 ## Aspectos técnicos relevantes
 La Plataforma se debe desarrollar en plataforma web y con acceso multiplataforma.
 
-* Para el frontend utilizaremos react y para el backend next-js
+* Para el frontend utilizaremos html y css, para el backend next-js
 * El número de servidores son tres: Un balanceador de Carga, Un servidor Web y un servidor de Base
 de Datos
 * El Balanceador de carga es: NGINX.
