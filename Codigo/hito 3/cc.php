@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $contraseña = trim($_POST['contraseña']); 
 
     // Validar que los campos no estén vacíos
-    if (strlen($rut) == 8 && strlen($email) >= 1 && strlen($nombres) >= 1 && strlen($contraseña) >= 1) {
+    if (strlen($rut) >= 1 && strlen($email) >= 1 && strlen($nombres) >= 1 && strlen($contraseña) >= 1) {
         // Preparar la consulta de inserción
         $stmt = $conn->prepare("INSERT INTO usuarios (rut, email, nombres, contraseña, rol) VALUES (?, ?, ?, ?, ?)");
         $stmt->bind_param("sssss", $rut, $email, $nombres, $contraseña, $rol);
