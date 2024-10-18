@@ -1,4 +1,4 @@
-Para efectos de entrega del hito 2, utilizamos sólamente html y css para levantar páginas en un servidor local como es apachel, específicamente utilizamos Xampp v3.3.0
+Para efectos de entrega del hito 3, utilizamos sólamente html y css para levantar páginas en un servidor local como es apachel, específicamente utilizamos Xampp v3.3.0
 
 Instrucciones para levantar el servidor:
 
