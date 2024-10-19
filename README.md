@@ -35,5 +35,5 @@ almacenamiento
 * Se modificó el modelo de dominio, eliminando la página web, porque ésta es parte del sistema.
 * Al modificar el modelo de dominio, se quitó la entidad de software.
 
-# Link Prototipo Hito3:
+# Link Prototipo Hito 3:
 * https://www.youtube.com/watch?v=cVco3JbnVqo
