@@ -36,4 +36,4 @@ almacenamiento
 * Al modificar el modelo de dominio, se quitó la entidad de software.
 
 # Link Prototipo Hito 3:
-* https://www.youtube.com/watch?v=cVco3JbnVqo
+* [Video presentación prototipo](https://www.youtube.com/watch?v=cVco3JbnVqo)
