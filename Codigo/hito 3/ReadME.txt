@@ -8,3 +8,4 @@ Instrucciones para levantar el servidor:
 4. Es necesario descargar XAMPP previamente. Al iniciarlo, se deben activar los servicios de MySQL y Apache.
 5. Luego, accede a la ruta localhost/phpmyadmin. Ahí, crea una base de datos con el nombre *vigifia*. Después, importa la base de datos que se encuentra en GitHub (nota que los archivos de GitHub deben estar dentro de la carpeta htdocs en una subcarpeta llamada *vigifia*).
 6. Para acceder a la página, escribe en el navegador localhost/vigifia/.
+7. todo deberia quedar como la imagen(REFERENCIA) adjunta para el correcto funcionamiento del programa 
