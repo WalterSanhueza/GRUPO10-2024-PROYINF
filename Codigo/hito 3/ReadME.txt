@@ -10,3 +10,5 @@ Instrucciones para levantar el servidor:
 6. Para acceder a la página, escribe en el navegador localhost/vigifia/.
 7. Al cargar la base de datos esta ya vendra con archivos de prueba, como usuarios cliente para poder hacer la solicitud de boltines.
 8. todo deberia quedar como la imagen(REFERENCIA) adjunta para el correcto funcionamiento del programa 
+
+NOTA: existe un archivo apdf.php que es encargado de subir los archivo .pdf a la base de datos
