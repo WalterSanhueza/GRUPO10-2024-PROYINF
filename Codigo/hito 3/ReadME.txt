@@ -1,4 +1,4 @@
-Para efectos de entrega del hito 3, utilizamos sólamente html y css para levantar páginas en un servidor local como es apachel, específicamente utilizamos Xampp v3.3.0
+Para efectos de entrega del hito 3, para el frontend utilizamos  html y css para el backend php y de esta forma conectarnos con la base de datos (mySQL), ademas utilizamos Xampp v3.3.0 para probar la pagina web de manera local
 
 Instrucciones para levantar el servidor:
 
