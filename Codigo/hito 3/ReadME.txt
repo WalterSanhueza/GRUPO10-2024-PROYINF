@@ -12,3 +12,5 @@ Instrucciones para levantar el servidor:
 8. todo deberia quedar como la imagen(REFERENCIA) adjunta para el correcto funcionamiento del programa 
 
 NOTA: existe un archivo apdf.php que es encargado de subir los archivo .pdf a la base de datos
+
+Link al prototipo: https://www.youtube.com/watch?v=cVco3JbnVqo
