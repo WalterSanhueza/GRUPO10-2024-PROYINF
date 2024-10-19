@@ -5,4 +5,6 @@ Instrucciones para levantar el servidor:
 1. Descargar los códigos y agruparlos en una carpeta 
 2. Mover la carpeta creada dentro de la carpeta htdocs que se encuentra dentro de los archivos de Xampp 
 3. Iniciar Xampp y prender Apache junto a MySQL
-4. Ahora con cualquier navegador ya se podría acceder a las páginas, por ejemplo, para abrir biblio.html se debe escribir http://localhost/"nombre_carpeta"/biblio.html
+4. Es necesario descargar XAMPP previamente. Al iniciarlo, se deben activar los servicios de MySQL y Apache.
+5. Luego, accede a la ruta localhost/phpmyadmin. Ahí, crea una base de datos con el nombre *vigifia*. Después, importa la base de datos que se encuentra en GitHub (nota que los archivos de GitHub deben estar dentro de la carpeta htdocs en una subcarpeta llamada *vigifia*).
+6. Para acceder a la página, escribe en el navegador localhost/vigifia.
