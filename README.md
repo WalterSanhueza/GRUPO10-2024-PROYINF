@@ -14,6 +14,7 @@ Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/G
 
 ## Videos
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
+* [Video presentación prototipo](https://www.youtube.com/watch?v=cVco3JbnVqo)
 
 
 ## Aspectos técnicos relevantes
@@ -34,6 +35,3 @@ almacenamiento
 * Se quitaron actores según las observaciones dadas y, para mayor claridad, se les agregó descripciones justificando su elección.
 * Se modificó el modelo de dominio, eliminando la página web, porque ésta es parte del sistema.
 * Al modificar el modelo de dominio, se quitó la entidad de software.
-
-# Link Prototipo Hito 3:
-* [Video presentación prototipo](https://www.youtube.com/watch?v=cVco3JbnVqo)
