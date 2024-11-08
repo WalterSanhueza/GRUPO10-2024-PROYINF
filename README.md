@@ -12,7 +12,7 @@ Este es el repositorio del Grupo 10, cuyos integrantes son:
 ## Wiki
 Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/GRUPO10-2024-PROYINF/wiki)
 
-##Tareas
+## Tareas
 [Estado](https://github.com/WalterSanhueza/GRUPO10-2024-PROYINF/issues)
 
 ## Videos
