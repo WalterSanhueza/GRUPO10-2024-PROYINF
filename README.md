@@ -18,7 +18,7 @@ Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/G
 ## Videos
 * [Video presentación cliente](https://www.youtube.com/watch?v=abJau21SDIk)
 * [Video presentación prototipo](https://www.youtube.com/watch?v=cVco3JbnVqo)
-
+* [Video presentación Final](https://www.youtube.com/watch?v=-9G-Bdv_7bk)
 
 ## Aspectos técnicos relevantes
 La Plataforma se debe desarrollar en plataforma web y con acceso multiplataforma.
