@@ -21,17 +21,27 @@ Puede acceder a la wiki mediante el [enlace](https://github.com/WalterSanhueza/G
 * [Video presentación Final](https://www.youtube.com/watch?v=-9G-Bdv_7bk)
 
 ## Aspectos técnicos relevantes
-La Plataforma se debe desarrollar en plataforma web y con acceso multiplataforma.
+1. **Plataforma y Alcance**  
+   - La aplicación es una **página web solo para escritorio**, diseñada para ser accesible en un entorno local.  
+   - No se considera acceso multiplataforma ni adaptabilidad para dispositivos móviles o tabletas.  
 
-* Para el frontend utilizaremos html y css, para el backend php, mysql
-* El número de servidores son tres: Un balanceador de Carga, Un servidor Web y un servidor de Base
-de Datos
-* El Balanceador de carga es: NGINX.
-* La base de datos utilizar: Postgre Sql.
-* Servidor web a utilizar: Apache HTTP Server
-* Ambiente de Producción Linux
-* Requemientos de este servidor Virtualizado 8 a 16 Gb en ram , 2 Procesadores , 100 Gb de
-almacenamiento
+2. **Tecnologías Utilizadas**  
+   - **Frontend**: HTML y CSS.  
+   - **Backend**: PHP, sin uso de JavaScript para interactividad o lógica del lado del cliente.  
+
+3. **Entorno de Desarrollo**  
+   - **Sistema Operativo**: Windows 10.  
+   - **Servidor Local**: La aplicación se ejecuta en **localhost** utilizando **XAMPP**, que proporciona un entorno integrado con Apache como servidor web y MySQL como sistema de gestión de bases de datos.  
+   - **Base de Datos**: **MySQL**, gestionada a través de **phpMyAdmin**, una interfaz gráfica incluida en XAMPP para simplificar la administración de la base de datos.  
+
+4. **Entorno de Producción**  
+   - No se cuenta con un servidor dedicado ni con virtualización; toda la funcionalidad se aloja en **localhost**.  
+   - No se planea migrar a un entorno de producción remoto o compartido.  
+
+5. **Especificaciones Adicionales**  
+   - El diseño y la funcionalidad de la página web están destinados a ejecutarse exclusivamente en un entorno local bajo **Windows 10**, sin dependencia de tecnologías avanzadas ni infraestructura adicional.  
+
+Esta configuración garantiza un proceso de desarrollo simple y adecuado para entornos locales, sin necesidad de configuraciones complejas ni infraestructura adicional.
 
 # Observaciones
 * Por recomendación del ayudante, se migró el repositorio a GitHub.
