@@ -1,4 +1,4 @@
-## Grupo 10
+## Grupo 4 INF225
 Este es el repositorio del Grupo 10, cuyos integrantes son:
 
 * Diego Carlon - 202173540-2
