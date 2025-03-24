@@ -1,5 +1,5 @@
 ## Grupo 4 INF225
-Este es el repositorio del Grupo 10, cuyos integrantes son:
+Este es el repositorio del Grupo 4, cuyos integrantes son:
 
 * Diego Carlon - 202173540-2
 * Walter Sanhueza - 202023564-3
