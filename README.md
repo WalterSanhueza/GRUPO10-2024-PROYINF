@@ -6,7 +6,7 @@ Este es el repositorio del Grupo 4, cuyos integrantes son:
 * Joshua Serin - 202173644-1
 * Matias Perez - 202187515-8
 
-**TUTOR:** Ignacio Muñoz
+**TUTOR:** Benjamin Daza
 
 
 ## Wiki
