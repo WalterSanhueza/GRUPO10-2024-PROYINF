@@ -1,0 +1,123 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('../img/bk3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+
+    /* Flexbox para centrar el contenido */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh; /* altura mínima para ocupar toda la pantalla */
+}
+        .container {
+            width: 80%;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .header h2 {
+            margin: 0;
+            color: #000;
+            font-size: 24px;
+            text-align: center;
+        }
+        .buttons-container {
+            display: flex;
+            gap: 10px;
+        }
+        .solicitar-btn {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        .solicitar-btn:hover {
+            background-color: #2980b9;
+        }
+        .search-bar {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .search-bar input {
+            width: 80%;
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .search-bar button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #3498db;
+            color: white;
+            font-size: 16px;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        .search-bar button:hover {
+            background-color: #2980b9;
+        }
+        .boletin-container {
+            max-height: 60vh; /* Altura máxima para el contenedor de borradores */
+            overflow-y: auto; /* Permitir el desplazamiento vertical en el contenedor de borradores */
+        }
+        .boletin {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 4px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .boletin h3 {
+            margin-top: 0;
+            color: #0066cc;
+        }
+        .boletin p {
+            color: #555;
+        }
+        .action-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        .action-buttons button, .action-buttons a {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+            text-align: center;
+        }
+        .accept-btn {
+            background-color: #2ecc71;
+        }
+        .accept-btn:hover {
+            background-color: #27ae60;
+        }
+        .deny-btn {
+            background-color: #fd5d5d;
+        }
+        .deny-btn:hover {
+            background-color: #c0392b;
+        }
