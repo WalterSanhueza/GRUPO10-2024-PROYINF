@@ -1,0 +1,120 @@
+/* Estilos básicos para el navbar */
+.navbar {
+    width: calc(100% - 20px); /* Ajusta el ancho total del navbar */
+    margin: 0 0px; /* Añade margen a la izquierda y derecha */
+    background: linear-gradient(90deg, #ffffff, #ffffff);
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s ease;
+    height: 40px;
+    
+}
+
+.navbar a,
+.navbar span {
+    color: black;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 4px; /* Bordes redondeados */
+    transition: background 0.3s ease, transform 0.3s ease; /* Transición suave */
+}
+
+.navbar a:hover {
+    transform: scale(1.1); /* Efecto de agrandamiento */
+}
+
+/* Añadir un poco de margen superior al contenido para evitar que quede oculto detrás del navbar */
+body {
+    margin-top: 70px; /* Ajusta según la altura del navbar */
+    font-family: Arial, sans-serif; /* Fuente más moderna */
+}
+
+.navbar .auth-links {
+    margin-right: 20px; /* Mover los enlaces un poco a la izquierda */
+}
+
+.logout-container {
+    display: flex; /* Usar flexbox para alinear los elementos */
+    align-items: center; /* Centrar verticalmente */
+    margin-left: 10px; /* Espacio a la izquierda */
+}
+
+.logout-link {
+    color: black; /* Color del texto */
+    text-decoration: none; /* Sin subrayado */
+    font-size: 16px; /* Tamaño de fuente */
+    margin-right: 5px; /* Espacio entre el texto y el icono */
+    transition: color 0.3s ease; /* Transición suave para el color */
+}
+
+.logout-link:hover {
+    color: #d9534f; /* Cambiar color al pasar el ratón */
+}
+
+.logout-icon img {
+    transition: transform 0.3s ease; /* Transición suave para el icono */
+}
+
+.logout-icon:hover img {
+    transform: scale(1.1); /* Efecto de agrandamiento al pasar el ratón */
+}
+
+.language-flags {
+    display: flex;
+    gap: 10px;
+}
+
+img {
+    cursor: pointer;
+    height: 20px;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+.session-info {
+    font-weight: 600;
+    color: #2c3e50; /* Darker text for readability */
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background-color: rgb(0, 166, 255, 0.1); /* Light green background with some transparency */
+    display: inline-block;
+    user-select: none;
+}
+
+.btn-nav {
+    color: white; /* Color del texto por defecto */
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.3s ease, color 0.3s ease; /* Añadir transición para el color */
+    white-space: nowrap;
+}
+
+.btn-nav:hover {
+    transform: scale(1.1);
+    color: #c14b3c; /* Cambia el color del texto a rojo al pasar el ratón */
+}
+.navbar-right{
+    font-weight: 600;
+    color: #2c3e50; /* Darker text for readability */
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
